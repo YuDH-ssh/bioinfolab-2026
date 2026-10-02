@@ -1,0 +1,4 @@
+
+data/seq.fasta 3
+data/seqs2.fasta 0
+data/seqs.fasta 0
